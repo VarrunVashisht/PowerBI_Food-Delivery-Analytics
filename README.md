@@ -123,6 +123,6 @@ The dataset includes fields such as:
 
 ---
 
-##  **Author** Varrun Vashisht
+##  Author: Varrun Vashisht
 
 
